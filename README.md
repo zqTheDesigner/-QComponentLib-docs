@@ -1,1 +1,1 @@
-# -QComponentLib-docs
+# QComponentLib-docs
