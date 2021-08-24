@@ -3,7 +3,7 @@
 	"description": "A file uploader with drag drop function enabled",
 	"props": [
 		{
-			"prop": "color",
+			"name": "color",
 			"type": "string",
 			"description": "Hex value of color to change the over all display",
 			"example": "#a00202"
@@ -11,7 +11,7 @@
 	],
 	"slots": [
 		{
-			"slot": "label",
+			"name": "label",
 			"description": "label of uploader"
 		}
 	]
