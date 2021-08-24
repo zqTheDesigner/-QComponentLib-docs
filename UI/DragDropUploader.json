@@ -8,5 +8,11 @@
 			"description": "Hex value of color to change the over all display",
 			"example": "#a00202"
 		}
+	],
+	"slots": [
+		{
+			"slot": "label",
+			"description": "label of uploader"
+		}
 	]
 }
