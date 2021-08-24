@@ -1,4 +1,12 @@
 {
 	"title": "Drag Drop Uploader",
-	"description": "A file uploader with drag drop function enabled"
+	"description": "A file uploader with drag drop function enabled",
+	"props": [
+		{
+			"prop": "color",
+			"type": "string",
+			"description": "Hex value of color to change the over all display",
+			"example": "#a00202"
+		}
+	]
 }
