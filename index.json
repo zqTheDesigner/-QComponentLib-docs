@@ -1,6 +1,10 @@
-{
-	"Drag Drop Uploader": {
+[
+	{
 		"name": "Drag Drop Uploader",
 		"category": "UI"
+	},
+	{
+		"name": "Media Content Card",
+		"category": "UI"
 	}
-}
+]
